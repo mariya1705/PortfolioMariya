@@ -34,7 +34,7 @@ const Hero = () => {
             </h1>
             <p className="hero-paragraph">
               Hi, I'm Mariya a freelance web developer from Toronto, Canada. I
-              help brands turn their ideas into high quality products.
+              help brands turn their ideas into high-quality products.
             </p>
             <div className="hero-buttons">
               <Link to="/contact" className="btn1">
